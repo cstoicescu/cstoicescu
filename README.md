@@ -13,7 +13,7 @@
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px"> 
 
 ## My GitHub Stats
-[![Catalin's github stats](https://github-readme-stats.vercel.app/api?username=cstoicescu)](https://github.com/cstoicescu/github-readme-stats)
+[![Catalin's github stats](https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=radical)](https://github.com/cstoicescu/github-readme-stats)
 
 
 <!--

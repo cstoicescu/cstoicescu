@@ -15,7 +15,8 @@
 ## My GitHub Stats
 [![Catalin's github stats](https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=radical)](https://github.com/cstoicescu/github-readme-stats)
 
-
+## Top Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=radical&hide=HLSL)](https://github.com/cstoicescu/github-readme-stats)
 <!--
 **cstoicescu/cstoicescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

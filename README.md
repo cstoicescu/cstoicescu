@@ -13,10 +13,10 @@
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px"> 
 
 ## My GitHub Stats
-[![Catalin's github stats](https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=radical)](https://github.com/cstoicescu/github-readme-stats)
+[![Catalin's github stats](https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/cstoicescu/github-readme-stats)
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=radical&hide=HLSL)](https://github.com/cstoicescu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=vue&hide=HLSL)](https://github.com/cstoicescu/github-readme-stats)
 <!--
 **cstoicescu/cstoicescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

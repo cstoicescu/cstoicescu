@@ -16,7 +16,23 @@
 ![Catalin's github stats](https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=tokyonight&hide=HLSL)](https://i.imgur.com/g5B73Bj.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=tokyonight&hide=HLSL)](https://i.imgur.com/g5B73Bj.gif)   
+
+
+<a href="https://github.com/cstoicescu/QuickPay-FrontEnd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickPay-FrontEnd&show_owner=true&theme=dark" alt='QuickPay-FrontEnd'/>
+</a>   
+<a href="https://github.com/cstoicescu/QuickPay-BackEnd">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickPay-BackEnd&show_owner=true&theme=dark" alt='QuickPay-BackEnd'/>
+</a>  
+
+                                                                                          
+<a href="https://github.com/cstoicescu/iptv-free-tv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=iptv-free-tv&show_owner=true&theme=dark" alt='iptv-free-tv'/>
+</a>  
+<a href="https://github.com/cstoicescu/myFirstApp-CSGO-Wallhack-2015">  
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=myFirstApp-CSGO-Wallhack-2015&theme=dark" alt='myFirstApp-CSGO-Wallhack-2015'/>
+</a>
 <!--
 **cstoicescu/cstoicescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

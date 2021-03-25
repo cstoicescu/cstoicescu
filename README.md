@@ -20,18 +20,18 @@
 
 
 <a href="https://github.com/cstoicescu/QuickPay-FrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickPay-FrontEnd&show_owner=true&theme=dark" alt='QuickPay-FrontEnd'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickPay-FrontEnd&show_owner=true&theme=radical" alt='QuickPay-FrontEnd'/>
 </a>   
 <a href="https://github.com/cstoicescu/QuickPay-BackEnd">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickPay-BackEnd&show_owner=true&theme=dark" alt='QuickPay-BackEnd'/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickPay-BackEnd&show_owner=true&theme=tokyonight" alt='QuickPay-BackEnd'/>
 </a>  
 
                                                                                           
 <a href="https://github.com/cstoicescu/iptv-free-tv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=iptv-free-tv&show_owner=true&theme=dark" alt='iptv-free-tv'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=iptv-free-tv&show_owner=true&theme=cobalt" alt='iptv-free-tv'/>
 </a>  
 <a href="https://github.com/cstoicescu/myFirstApp-CSGO-Wallhack-2015">  
-  <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=myFirstApp-CSGO-Wallhack-2015&theme=dark" alt='myFirstApp-CSGO-Wallhack-2015'/>
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=myFirstApp-CSGO-Wallhack-2015&theme=dracula" alt='myFirstApp-CSGO-Wallhack-2015'/>
 </a>
 <!--
 **cstoicescu/cstoicescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

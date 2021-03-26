@@ -16,7 +16,7 @@
 ![Catalin's github stats](https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=tokyonight&count_private=true)
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=tokyonight&hide=HLSL)](https://i.imgur.com/g5B73Bj.gif)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=tokyonight&hide=HLSL)](https://github.com/cstoicescu?tab=repositories)   
 
 
 <a href="https://github.com/cstoicescu/QuickPay-FrontEnd">

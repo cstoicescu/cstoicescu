@@ -10,12 +10,12 @@
   <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" width="auto" height="50px"> 
 
 <a target="_blank" href="https://www.facebook.com/catalin.stoicescu11">
-  <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px"> 
+  <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px">  
 
-## My GitHub Stats
-![Catalin's github stats](https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=tokyonight&count_private=true)
+## My GitHub Stats  
+[![Catalin's github stats](https://svgshare.com/i/V_w.svg)](https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=tokyonight&count_private=true)  
 
-## Top Langs
+## Top Langs  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=tokyonight&hide=HLSL)](https://github.com/cstoicescu?tab=repositories)   
 
 
@@ -32,7 +32,8 @@
 </a>  
 <a href="https://github.com/cstoicescu/myFirstApp-CSGO-Wallhack-2015">  
   <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=myFirstApp-CSGO-Wallhack-2015&theme=dracula" alt='myFirstApp-CSGO-Wallhack-2015'/>
-</a>
+</a>  
+
 <!--
 **cstoicescu/cstoicescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -20,7 +20,7 @@
 ## Top Langs  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=tokyonight&hide=HLSL)](https://github.com/cstoicescu?tab=repositories)   
 
-
+## Top Repositories ⭐  
 <a href="https://github.com/cstoicescu/QuickPay-FrontEnd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickPay-FrontEnd&show_owner=true&theme=radical" alt='QuickPay-FrontEnd'/>
 </a>   

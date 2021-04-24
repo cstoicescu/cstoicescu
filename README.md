@@ -1,4 +1,6 @@
-## Get in touch
+
+## Get in touch   
+
 <a href = "mailto:stoicescu.catalinn97@gmail.com">
   <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px"> 
 
@@ -12,10 +14,11 @@
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px">  
 
 ## My GitHub Stats  
-![Catalin's github stats](https://svgshare.com/i/V_V.svg)
+![Catalin's github stats](https://svgshare.com/i/WYM.svg)
 <!--
 (https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=tokyonight&count_private=true)  
 !-->
+![](https://visitor-badge.glitch.me/badge?page_id=cstoicescu.visitor-badge) 
 ## Top Langs  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=tokyonight&hide=HLSL)](https://github.com/cstoicescu?tab=repositories)   
 

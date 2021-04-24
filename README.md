@@ -1,5 +1,4 @@
 ## Get in touch
-![](https://visitor-badge.glitch.me/badge?page_id=cstoicescu.visitor-badge)  
 <a href = "mailto:stoicescu.catalinn97@gmail.com">
   <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px"> 
 

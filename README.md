@@ -14,7 +14,7 @@
   <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px">  
 
 ## My GitHub Stats  
-![Catalin's github stats](https://svgshare.com/i/W_Z.svg)
+![Catalin's github stats](https://svgshare.com/i/XWc.svg)
 <!--
 (https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=tokyonight&count_private=true)  
 !-->
@@ -37,6 +37,15 @@
 <a href="https://github.com/cstoicescu/myFirstApp-CSGO-Wallhack-2015">  
   <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=myFirstApp-CSGO-Wallhack-2015&theme=dracula" alt='myFirstApp-CSGO-Wallhack-2015'/>
 </a>  
+  
+  
+  <a href="https://github.com/cstoicescu/QuickShare-FileSharing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickShare-FileSharing&show_owner=true&theme=calm" alt='quickshare-filesharing'/>
+</a>  
+
+  
+  
+  
 
 <!--
 **cstoicescu/cstoicescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

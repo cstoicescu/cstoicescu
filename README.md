@@ -43,7 +43,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickShare-FileSharing&show_owner=true&theme=calm" alt='quickshare-filesharing'/>
 </a>  
 
+  <br></br>
   
+  
+  <p align="center">
+   <img  src="https://user-images.githubusercontent.com/53979557/135168414-88af4354-4465-4b9d-9444-12b892198262.png" alt='qr-Code'/>
+</p>
   
   
 

@@ -44,13 +44,16 @@
 </a>  
 
   <br></br>
+    
   
+  <p align="center"> Make the rest of your life, the best of your life </p>
+
   
   <p align="center">
-   <img  src="https://user-images.githubusercontent.com/53979557/135168414-88af4354-4465-4b9d-9444-12b892198262.png" alt='qr-Code'/>
+   <img  src="https://user-images.githubusercontent.com/53979557/135172716-d0833651-dd2b-429a-b8ea-e72efccb9505.png" alt='qr-Code'/>
 </p>
   
-  
+
 
 <!--
 **cstoicescu/cstoicescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

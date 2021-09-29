@@ -43,8 +43,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickShare-FileSharing&show_owner=true&theme=calm" alt='quickshare-filesharing'/>
 </a>  
 
-  <br></br>
-    
+  <br><a target="_blank" href="https://www.facebook.com/catalin.stoicescu11"></br>
+
+ ##    &nbsp;
   
   <p align="center"> Make the rest of your life, the best of your life </p>
 

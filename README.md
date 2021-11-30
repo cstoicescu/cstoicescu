@@ -30,17 +30,17 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickPay-BackEnd&show_owner=true&theme=tokyonight" alt='QuickPay-BackEnd'/>
 </a>  
 
-                                                                                          
-<a href="https://github.com/cstoicescu/iptv-free-tv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=iptv-free-tv&show_owner=true&theme=cobalt" alt='iptv-free-tv'/>
-</a>  
+
 <a href="https://github.com/cstoicescu/myFirstApp-CSGO-Wallhack-2015">  
   <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=myFirstApp-CSGO-Wallhack-2015&theme=dracula" alt='myFirstApp-CSGO-Wallhack-2015'/>
 </a>  
   
+  <a href="https://github.com/cstoicescu/iptv-free-tv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=iptv-free-tv&show_owner=true&theme=cobalt" alt='iptv-free-tv'/>
+</a>  
   
   <a href="https://github.com/cstoicescu/QuickShare-FileSharing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickShare-FileSharing&show_owner=true&theme=calm" alt='quickshare-filesharing'/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=Twitter-Kafka-ElasticSearch&show_owner=true&theme=calm" alt='quickshare-filesharing'/>
 </a>  
 
   <br><a target="_blank" href="https://www.facebook.com/catalin.stoicescu11"></br>

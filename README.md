@@ -41,7 +41,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=iptv-free-tv&show_owner=true&theme=cobalt" alt='iptv-free-tv'/>
 </a>  
   
-  <a href="https://github.com/cstoicescu/QuickShare-FileSharing">
+  <a href="https://github.com/cstoicescu/Twitter-Kafka-ElasticSearch">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=Twitter-Kafka-ElasticSearch&show_owner=true&theme=vue-dark" alt='quickshare-filesharing'/>
 </a>  
   

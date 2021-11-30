@@ -31,7 +31,7 @@
 </a>  
 
   <a href="https://github.com/cstoicescu/QuickShare-FileSharing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickShareX-FileSharing&show_owner=true&theme=calm" alt='quickshare-filesharing'/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=QuickShare-FileSharing&show_owner=true&theme=calm" alt='quickshare-filesharing'/>
 </a>  
 <a href="https://github.com/cstoicescu/myFirstApp-CSGO-Wallhack-2015">  
   <img  align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=cstoicescu&repo=myFirstApp-CSGO-Wallhack-2015&theme=dracula" alt='myFirstApp-CSGO-Wallhack-2015'/>

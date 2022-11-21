@@ -2,16 +2,16 @@
 ## Get in touch   
 
 <a href = "mailto:stoicescu.catalinn97@gmail.com">
-  <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px">   
+  <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px">   </a>
 
 <a target="_blank" href="https://www.linkedin.com/in/stoicescu-catalin-11017518b">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> </a>
 
 <a target="_blank" href="https://github.com/cstoicescu">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" width="auto" height="50px"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" width="auto" height="50px">  </a>
 
 <a target="_blank" href="https://www.facebook.com/catalin.stoicescu11">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px">  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px">  </a>
 
 ## My GitHub Stats  
 ![Catalin's github stats](https://svgshare.com/i/Y2j.svg)

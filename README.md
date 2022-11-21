@@ -18,7 +18,8 @@
 <!--
 (https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=tokyonight&count_private=true)  
 !-->
-![](https://visitor-badge.glitch.me/badge?page_id=cstoicescu.visitor-badge) 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=cstoicescu.visitor-badge)  -->
+ ![visitor badge](https://my-visitors-badge1337.glitch.me/badge?page_id=cstoicescu.visitor-badge&left_color=red&right_color=green&left_text=Hello!%20Visitors:)
 ## Top Langs  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cstoicescu&show_icons=true&theme=tokyonight&hide=HLSL)](https://github.com/cstoicescu?tab=repositories)   
 

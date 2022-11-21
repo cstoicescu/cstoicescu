@@ -4,8 +4,8 @@
 <a href = "mailto:stoicescu.catalinn97@gmail.com">
   <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" width="auto" height="50px">   
 
-<a target="_blank" href="https://www.linkedin.com/in/stoicescu-catalin-11017518b/">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> 
+<a target="_blank" href="https://www.linkedin.com/in/stoicescu-catalin-11017518b">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://nepa.com/wp-content/uploads/2017/09/linkedin-logo.png" width="auto" height="50px"> </a>
 
 <a target="_blank" href="https://github.com/cstoicescu">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://1000logos.net/wp-content/uploads/2018/11/GitHub-logo.png" width="auto" height="50px"> 

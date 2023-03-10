@@ -52,7 +52,7 @@
   
   <p align="center"> Make the rest of your life, the best of your life </p>
 
-  
+ <!--
   <p align="center">
    <img  src="https://user-images.githubusercontent.com/53979557/135172716-d0833651-dd2b-429a-b8ea-e72efccb9505.png" alt='qr-Code'/>
 </p>

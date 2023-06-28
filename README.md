@@ -52,8 +52,8 @@
   
   <p align="center"> Make the rest of your life, the best of your life </p>
 
-  <p align="center">
-   <img  src="https://github.com/cstoicescu/cstoicescu/assets/53979557/21ab34e4-dfc7-459f-a0e0-b04b8246da99" width="25%" height="25%" alt='qr-Code'/>
+ <p align="center">
+   <img  src="https://github.com/cstoicescu/cstoicescu/assets/53979557/04b58c08-f500-4660-832e-10667d91dab4" width="25%" height="25%" alt='qr-Code'/>
 </p>
 <!--
 **cstoicescu/cstoicescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

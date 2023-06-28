@@ -1,4 +1,3 @@
-![oie_x5fqxDBR1m3a](https://github.com/cstoicescu/cstoicescu/assets/53979557/91c74ab9-c9fc-4cd7-9531-e30ec27a4025)
 ## Get in touch   
 
 <a href = "mailto:stoicescu.catalinn97@gmail.com">

@@ -1,4 +1,4 @@
-
+![oie_x5fqxDBR1m3a](https://github.com/cstoicescu/cstoicescu/assets/53979557/91c74ab9-c9fc-4cd7-9531-e30ec27a4025)
 ## Get in touch   
 
 <a href = "mailto:stoicescu.catalinn97@gmail.com">
@@ -53,7 +53,7 @@
   <p align="center"> Make the rest of your life, the best of your life </p>
 
  <p align="center">
-   <img  src="https://github.com/cstoicescu/cstoicescu/assets/53979557/04b58c08-f500-4660-832e-10667d91dab4" width="25%" height="25%" alt='qr-Code'/>
+   <img  src="https://github.com/cstoicescu/cstoicescu/assets/53979557/657026ad-d8af-4b0b-b201-8420e8f6ad9a" width="25%" height="25%" alt='qr-Code'/>
 </p>
 <!--
 **cstoicescu/cstoicescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

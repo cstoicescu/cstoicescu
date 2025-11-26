@@ -15,7 +15,7 @@
 ## My GitHub Stats  
 ![Catalin's github stats](https://687474-1.tiiny.site/6874741.svg)
 
- ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cstoicescu.visitor-badge&left_color=red&right_color=green&left_text=Hello!%20You%20are%20visitor%20number:)  
+ ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=cstoicescu.visitor-badge&left_color=grey&right_color=purple&left_text=Visits:)  
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=cstoicescu.visitor-badge&left_color=red&right_color=green&left_text=Hello!%20Visitors:)
  ![visitor badge](https://my-visitors-badge1337.glitch.me/badge?page_id=cstoicescu.visitor-badge&left_color=red&right_color=green&left_text=Hello!%20Visitors:) -->
 ## Top Langs  

@@ -13,7 +13,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://www.facebook.com/images/fb_icon_325x325.png" width="auto" height="50px">  </a>
 
 ## My GitHub Stats  
-![Catalin's github stats]([https://svgshare.com/i/Y2j.svg](https://687474-1.tiiny.site/6874741.svg))
+![Catalin's github stats](https://687474-1.tiiny.site/6874741.svg)
 <!--
 (https://github-readme-stats.vercel.app/api?username=cstoicescu&show_icons=true&theme=tokyonight&count_private=true)  
 !-->
